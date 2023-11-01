@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 玄一的博客
+title: 粹博园
 subtitle: 探索前端技术的无尽可能性
-description: 玄一技术博客是一个致力于分享前端技术、开发经验和最新技术趋势的博客。我们提供高质量的教程、文章和案例分析，帮助开发者深入了解前端开发，并掌握最新的技术工具和框架。
+description: 粹博园是一个致力于分享前端技术、开发经验和最新技术趋势的博客。我们提供高质量的教程、文章和案例分析，帮助开发者深入了解前端开发，并掌握最新的技术工具和框架。
 keywords:
   - 前端开发
   - 技术博客
@@ -28,7 +28,7 @@ timezone: Asia/Hong_Kong
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xuanyi.comreb.com
+url: https://ccblog.vbcg.top
 permalink: :hash/
 permalink_defaults:
 pretty_urls:
