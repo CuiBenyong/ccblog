@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1698312815276.png # image
+  logo: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/1698312815276.jpg # image
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -43,11 +43,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1698312815276.png
+favicon: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/1698312815276.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/youngjuning/images@main/1698312815276.png
+  img: https://cdn.jsdelivr.net/gh/CuiBenyong/resources@main/1698312815276.jpg
   effect: true
 
 # Disable all banner image
