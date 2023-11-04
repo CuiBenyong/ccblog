@@ -60,9 +60,9 @@ According to the 2022 JD Power & Associates Commercial Member Health Plan Study,
 
 ## Blue Cross Blue Shield
 
-- 保单类型： 2
-- AM 最佳评级： A
-- 可用状态： 50
+- Policy Type: 2
+- AM Best Rated: A
+- Availability: 50
 
 ### Overview
 
