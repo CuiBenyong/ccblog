@@ -3,7 +3,7 @@ title: An Overview of Insurance in the United States
 date: 2023-11-02 11:53:08
 categories:
   - Liveing in U.S.
-    - Insurance
+  - Insurance
 tags:
   - Insurance
   - US

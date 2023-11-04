@@ -3,7 +3,7 @@ title: The Role and Importance of Home Insurance in the American Economy
 date: 2023-08-18 21:31:00
 categories:
   - Liveing in U.S.
-    - Insurance
+  - Insurance
 tags:
   - Insurance
   - US
