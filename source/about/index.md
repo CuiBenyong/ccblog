@@ -19,6 +19,6 @@ I believe coding are something we should all aspire to. My mission is to live th
 
 If you have any questions or suggestions, please feel free to contact me. You can find me in the following ways:
 
-- Email: luozhu2021@gmail.com
+- Email: rulesylvester@gmail.com
 
 Thank you for visiting my website!
